@@ -73,3 +73,4 @@
 | **DELETE** | Deletar um recurso                | Excluir tarefa: `DELETE /tarefas/1`             |
 
 
+//npx prisma migrate dev => fazer alteração no banco de dados
